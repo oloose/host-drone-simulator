@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 1e674d735a2a7fc499a03741babc253a
+timeCreated: 1508780963
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: base
+    100002: cabin
+    100004: cabin_glass
+    100006: cabin_glass.001
+    100008: cabin_glass1
+    100010: door1
+    100012: door1_knob
+    100014: door2
+    100016: door3
+    100018: door3_knob
+    100020: door3_vent
+    100022: door4
+    100024: //RootNode
+    100026: grid_small_frame
+    100028: grid_small_frame.001
+    100030: grid_small_frame.002
+    100032: grid_small_frame.004
+    100034: roof_base
+    100036: roof_top
+    100038: vent
+    100040: vent1
+    100042: vent2
+    100044: vent3
+    100046: walls
+    100048: window1
+    100050: window2
+    100052: window3
+    100054: window4
+    100056: window5
+    100058: window6
+    100060: window7
+    400000: base
+    400002: cabin
+    400004: cabin_glass
+    400006: cabin_glass.001
+    400008: cabin_glass1
+    400010: door1
+    400012: door1_knob
+    400014: door2
+    400016: door3
+    400018: door3_knob
+    400020: door3_vent
+    400022: door4
+    400024: //RootNode
+    400026: grid_small_frame
+    400028: grid_small_frame.001
+    400030: grid_small_frame.002
+    400032: grid_small_frame.004
+    400034: roof_base
+    400036: roof_top
+    400038: vent
+    400040: vent1
+    400042: vent2
+    400044: vent3
+    400046: walls
+    400048: window1
+    400050: window2
+    400052: window3
+    400054: window4
+    400056: window5
+    400058: window6
+    400060: window7
+    2300000: base
+    2300002: cabin
+    2300004: cabin_glass
+    2300006: cabin_glass.001
+    2300008: cabin_glass1
+    2300010: door1
+    2300012: door1_knob
+    2300014: door2
+    2300016: door3
+    2300018: door3_knob
+    2300020: door3_vent
+    2300022: door4
+    2300024: grid_small_frame
+    2300026: grid_small_frame.001
+    2300028: grid_small_frame.002
+    2300030: grid_small_frame.004
+    2300032: roof_base
+    2300034: roof_top
+    2300036: vent
+    2300038: vent1
+    2300040: vent2
+    2300042: vent3
+    2300044: walls
+    2300046: window1
+    2300048: window2
+    2300050: window3
+    2300052: window4
+    2300054: window5
+    2300056: window6
+    2300058: window7
+    3300000: base
+    3300002: cabin
+    3300004: cabin_glass
+    3300006: cabin_glass.001
+    3300008: cabin_glass1
+    3300010: door1
+    3300012: door1_knob
+    3300014: door2
+    3300016: door3
+    3300018: door3_knob
+    3300020: door3_vent
+    3300022: door4
+    3300024: grid_small_frame
+    3300026: grid_small_frame.001
+    3300028: grid_small_frame.002
+    3300030: grid_small_frame.004
+    3300032: roof_base
+    3300034: roof_top
+    3300036: vent
+    3300038: vent1
+    3300040: vent2
+    3300042: vent3
+    3300044: walls
+    3300046: window1
+    3300048: window2
+    3300050: window3
+    3300052: window4
+    3300054: window5
+    3300056: window6
+    3300058: window7
+    4300000: window1
+    4300002: grid_small_frame
+    4300004: base
+    4300006: door1
+    4300008: door1_knob
+    4300010: vent1
+    4300012: window2
+    4300014: window3
+    4300016: window4
+    4300018: window5
+    4300020: walls
+    4300022: window7
+    4300024: window6
+    4300026: cabin
+    4300028: cabin_glass1
+    4300030: cabin_glass
+    4300032: cabin_glass.001
+    4300034: vent3
+    4300036: vent2
+    4300038: vent
+    4300040: grid_small_frame.004
+    4300042: grid_small_frame.001
+    4300044: grid_small_frame.002
+    4300046: door3
+    4300048: door3_vent
+    4300050: door3_knob
+    4300052: door2
+    4300054: door4
+    4300056: roof_base
+    4300058: roof_top
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
